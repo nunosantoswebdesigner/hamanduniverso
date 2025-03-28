@@ -1,0 +1,21 @@
+<svg width="70" height="47" viewBox="0 0 70 47" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 0V47H70V0H0Z" fill="#4758A9"/>
+<mask id="mask0_141_2" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="70" height="47">
+<path d="M0 0V47H70V0H0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_141_2)">
+<path d="M0 0L70 47ZM70 0L0 47Z" fill="black"/>
+<path d="M0 0L70 47M70 0L0 47" stroke="white" stroke-width="8.88594"/>
+</g>
+<mask id="mask1_141_2" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="70" height="47">
+<path d="M0 0V47H70V0H0Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_141_2)">
+<path d="M0 0L70 47ZM70 0L0 47Z" fill="black"/>
+<path d="M0 0L70 47M70 0L0 47" stroke="#ED5565" stroke-width="5.92396"/>
+</g>
+<path d="M35 0V47ZM0 23.5H70Z" fill="black"/>
+<path d="M35 0V47M0 23.5H70" stroke="white" stroke-width="14.8099"/>
+<path d="M35 0V47ZM0 23.5H70Z" fill="black"/>
+<path d="M35 0V47M0 23.5H70" stroke="#ED5565" stroke-width="8.88594"/>
+</svg>
