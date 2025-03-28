@@ -11,9 +11,9 @@ export default {
   title_testemunhos: 'TÉMOIGNAGES',
   title_contactos: 'CONTACTS',
   
-  terapia: 'Therapy',
-  holistica: 'Holistic',
-  hero_text: 'The man who looks outside dreams... the one who looks inside awakens!',
+  terapia: 'Thérapie',
+  holistica: 'Holistique',
+  hero_text: 'L\'homme qui regarde à l\'extérieur rêve... celui qui regarde à l\'intérieur s\'éveille !',
   ser_essencia: 'Être Essence',
   hero_bottom_text: 'Nos services sont disponibles en ligne ou en présentiel sur rendez-vous, garantissant le meilleur confort à nos bénéficiaires.',
 
