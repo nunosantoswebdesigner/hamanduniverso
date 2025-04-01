@@ -41,7 +41,7 @@ const PricingList = () => {
           setLoading(false);
           showAlert({
             show: true,
-            text: `${t('Obrigado por entrar em contato')} 😃`,
+            text: `${t('obrigado_por_entrar_em_contato')} 😃`,
             type: 'success',
           });
 
@@ -60,7 +60,7 @@ const PricingList = () => {
 
           showAlert({
             show: true,
-            text: "Alguma coisa deu errado 😢",
+            text: `${t('alguma_coisa_deu_errado')} 😢`,
             type: 'danger',
           });
         },
@@ -77,7 +77,7 @@ const PricingList = () => {
           <form ref={formRef} onSubmit={handleSubmit} className="lg:m-12 flex flex-col space-y-7">
             {/* Nome */}
             <label className="space-y-3">
-              <span className="block field-label">Nome</span>
+              <span className="block field-label">{t('nome')}</span>
               <input
                 type="text"
                 name="name"
