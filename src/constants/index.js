@@ -232,13 +232,13 @@ export const servicesIconsSoraia = [
   },
   {
     id: "2",
-    link: "tel:+34644661591",
+    link: "tel:+34600918875",
     name: "phone",
     icon: disc02,
   },
   {
     id: "3",
-    link: "https://wa.me/+34644661591",
+    link: "https://wa.me/+34600918875",
     name: "whatsapp",
     icon: chromecast,
   },
